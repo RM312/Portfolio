@@ -2,6 +2,10 @@
 
 Welcome to my portfolio! This website showcases my skills, projects, and experiences in the field of software development.
 
+## Visit My Portfolio
+
+[Click here to visit my portfolio!](https://rm312.github.io/Portfolio/)
+
 ## Description
 
 This portfolio is built using HTML and CSS. It provides an overview of my professional background, education, skills, and projects I have worked on. 
@@ -17,8 +21,3 @@ This portfolio is built using HTML and CSS. It provides an overview of my profes
 ## Usage
 
 Feel free to explore my portfolio to learn more about my skills and projects. If you have any questions or would like to collaborate, don't hesitate to reach out through the contact section.
-
-## Visit My Portfolio
-
-[Click here to visit my portfolio!](https://rm312.github.io/Portfolio/)
-
