@@ -22,14 +22,3 @@ Feel free to explore my portfolio to learn more about my skills and projects. If
 
 [Click here to visit my portfolio!](https://rm312.github.io/Portfolio/)
 
-## Contributing
-
-This portfolio is a representation of my professional identity, but I'm always open to feedback and suggestions for improvement. If you have any ideas or spot any issues, feel free to reach out.
-
-## License
-
-This portfolio is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize and expand upon this README as needed for your portfolio!
